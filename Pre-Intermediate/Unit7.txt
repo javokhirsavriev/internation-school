@@ -1,0 +1,77 @@
+"accommodation (n)"; "/əˌkɒməˈdeɪʃən/"; "A place to stay when you're away from home, like a hotel or apartment."; "The accommodation they booked had a great view.";""
+
+"advantage (n)"; "/ədˈvɑːntɪdʒ/"; "When you have something that helps you do better than others."; "Being a fast runner is an advantage in a race.";""
+
+"amazed (adj.)"; "/əˈmeɪzd/"; "Very surprised and impressed."; "She was amazed by the beautiful fireworks.";""
+
+"annoyed (adj.)"; "/əˈnɔɪd/"; "Feeling a little angry or bothered."; "He was annoyed by the loud music."; ""
+
+"annoying (adj.)"; "/əˈnɔɪɪŋ/"; "Something that bothers or irritates you."; "The annoying dog barked all night."; ""
+
+"apply (v)"; "/əˈplaɪ/"; "To ask for something or put it to use."; "She will apply for a job at the store."; ""
+
+"basic (adj.)"; "/ˈbeɪsɪk/"; "Very simple and necessary."; "Breathing is a basic need."; ""
+
+"bored (adj.)"; "/bɔːrd/"; "When you're not having fun and feel like there's nothing to do."; "She was bored on the long car ride."; ""
+
+"confusing (adj.)"; "/kənˈfjuːzɪŋ/"; "When something is hard to understand."; "The puzzle was confusing, and I couldn't solve it."; ""
+
+"convenient (adj.)"; "/kənˈviːniənt/"; "Easy to use and helpful."; "Having a convenience store nearby is very convenient."; ""
+
+"cycle lane (n)"; "/ˈsaɪkl leɪn/"; "A special part of the road for bicycles."; "Cyclists use the cycle lane to stay safe."; ""
+
+"efficient (adj.)"; "/ɪˈfɪʃənt/"; "Doing things well and quickly."; "The efficient machine can make many copies in a short time."; ""
+
+"embarrassing (adj.)"; "/ɪmˈbærəsɪŋ/"; "Making you feel shy or silly."; "He found his mistake embarrassing, and he blushed."; ""
+
+"exciting (adj.)"; "/ɪkˈsaɪtɪŋ/"; "Making you feel happy and enthusiastic."; "The exciting movie kept everyone on the edge of their seats."; ""
+
+"fare (n)"; "/feər/"; "The money you pay for a journey on a bus or train."; "The fare for the bus ride is $2."; ""
+
+"fascinated (adj.)"; "/ˈfæsɪˌneɪtɪd/"; "Very interested in something."; "She was fascinated by the stars in the night sky."; ""
+
+"fascinating (adj.)"; "/ˈfæsɪˌneɪtɪŋ/"; "Very interesting."; "The history of ancient civilizations is fascinating."; ""
+
+"float (v)"; "/fləʊt/"; "To stay on the top of the water."; "The boat can float on the lake."; ""
+
+"foreign (adj.)"; "/ˈfɒrɪn/"; "From another country."; "She tasted foreign food for the first time."; ""
+
+"frightening (adj.)"; "/ˈfraɪtənɪŋ/"; "Making you feel afraid."; "The loud thunder was frightening to the child."; ""
+
+"hire (v)"; "/haɪər/"; "To give someone a job."; "They decided to hire a new employee."; ""
+
+"in advance (preposition)"; "/ɪn ədˈvæns/"; "Before an event or time."; "Please book your tickets in advance."; ""
+
+"last-minute (adj.)"; "/ˈlæst ˈmɪnɪt/"; "Happening at the end, with little time to prepare."; "Their last-minute decision to go on a trip was spontaneous."; ""
+
+"luggage (n)"; "/ˈlʌɡɪdʒ/"; "Bags you take on a trip."; "She packed her luggage for the vacation."; ""
+
+"pollution (n)"; "/pəˈluːʃən/"; "Harmful things in the air or water."; "Air pollution can be bad for your health."; ""
+
+"predict (v)"; "/prɪˈdɪkt/"; "To say what will happen."; "The weather forecast can predict the temperature."; ""
+
+"reality (n)"; "/riˈælɪti/"; "The way things are in real life."; "In reality, it's not always easy to be a hero."; ""
+
+"regular (adj.)"; "/ˈrɛɡjʊlər/"; "Happening often and with a pattern."; "She has a regular schedule for work."; ""
+
+"relaxed (adj.)"; "/rɪˈlækst/"; "Feeling calm and not stressed."; "Sitting by the beach made her feel relaxed."; ""
+
+"relaxing (adj.)"; "/rɪˈlæk sɪŋ/"; "Making you feel calm and peaceful."
+
+"review (n)";"/rɪˈvjuː/"; "A report or critique of something."; "She wrote a positive review of the book she read."; ""
+
+"remote (adj.)"; "/rɪˈməʊt/"; "Far away and not near people."; "Their house is remote, surrounded by nature."; ""
+
+"replace (v)";"/rɪˈpleɪs/";"To put something new in the place of something old.";"She had to replace the broken glass with a new one."; ""
+
+"self-catering (adj.)";"/sɛlfˈkeɪtərɪŋ/";"A place where you cook your own meals.";"They booked a self-catering cottage for their vacation."; ""
+
+"surprised (adj.)";"/səˈpraɪzd/";"Feeling amazed or shocked by something unexpected.";"He was surprised by the birthday cake."; ""
+
+"surprising (adj.)";"/səˈpraɪzɪŋ/";"Something unexpected or astonishing.";"The surprising news made her smile."; ""
+
+"tiring (adj.)";"/ˈtaɪərɪŋ/";"Making you feel very tired.";"The long hike was tiring, but they enjoyed it."; ""
+
+"worried (adj.)";"/ˈwʌrɪd/";"Feeling anxious or concerned.";"She was worried about her missing pet."; ""
+
+"worrying (adj.)";"/ˈwʌriɪŋ/";"Causing anxiety or concern.";"The rising pollution levels are worrying."; ""
