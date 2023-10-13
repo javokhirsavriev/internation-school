@@ -1,1 +1,1 @@
-# internation-school
+# Internation School Vocabulary
