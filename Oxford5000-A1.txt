@@ -1,39 +1,79 @@
-"a (indefinite article)"; "/ə/"; "Used before a singular noun to refer to any member of a group."; "I want to buy a new car."; ""
+"a (indefinite article)"; "/ə/"; "Used before a singular noun to refer to any member of a group."; "I'd like to buy a new book.";""
 
-"about (prep., adv)"; "/əˈbaʊt/"; "Concerning or regarding something."; "We talked about our plans for the weekend."; ""
+"about (prep., adv.)"; "/əˈbaʊt/"; "Used to indicate a topic or subject of something."; "Let's talk about your plans for the weekend.";""
 
-"above (prep., adv)"; "/əˈbʌv/"; "At a higher position or level than something else."; "The bird is flying above the trees."; ""
+"above (prep., adv.)"; "/əˈbʌv/"; "At a higher level or position."; "The picture is hanging above the fireplace.";""
 
-"across (prep., adv)"; "/əˈkrɒs/"; "From one side to the other side; over a certain area."; "We walked across the bridge."; ""
+"across (prep., adv.)"; "/əˈkrɒs/"; "From one side to the other side."; "We walked across the bridge.";""
 
-"action (n)"; "/ˈækʃən/"; "Doing something or the process of doing something."; "The movie has a lot of exciting action scenes."; ""
+"action (n.)"; "/ˈækʃən/"; "Doing something, usually to achieve a goal."; "The movie is full of exciting action scenes.";""
 
-"activity (n)"; "/ækˈtɪvəti/"; "A thing that you do for enjoyment or interest."; "We enjoyed the outdoor activities."; ""
+"activity (n.)"; "/ækˈtɪvɪti/"; "A specific action or process, often for enjoyment or learning."; "Reading is a favorite leisure activity.";""
 
-"actor (n)"; "/ˈæktər/"; "A person who performs in plays, movies, or television shows."; "The actor delivered a powerful performance."; ""
+"actor (n.)"; "/ˈæktər/"; "A person who performs in plays, movies, or television shows."; "Leonardo DiCaprio is a talented actor.";""
 
-"actress (n)"; "/ˈæktrɪs/"; "A female actor, especially in a theater play, movie, or television show."; "She is a talented actress."; ""
+"actress (n.)"; "/ˈæktrɪs/"; "A female actor."; "She is a famous actress known for her brilliant performances.";""
 
-"add (v)"; "/æd/"; "To put something with or onto something else to increase the size, number, or amount."; "Add sugar to the coffee."; ""
+"add (v.)"; "/æd/"; "To combine something with another."; "Can you add sugar to my coffee, please?";""
 
-"address (n)"; "/əˈdres/"; "The details of the place where someone lives or works."; "Write your address on the envelope."; ""
+"address (n.)"; "/əˈdres/"; "The details of the place where someone lives or works."; "I need your address for the invitation.";""
 
-"adult (n)"; "/ˈædʌlt/"; "A person who is fully grown or developed."; "In many countries, you are considered an adult at 18."; ""
+"adult (n.)"; "/ˈædʌlt/"; "A person who is fully grown or developed."; "In many countries, you are considered an adult at 18.";""
 
-"advice (n)"; "/ədˈvaɪs/"; "An opinion or suggestion about what someone should do."; "I need some advice on choosing a career."; ""
+"advice (n.)"; "/ədˈvaɪs/"; "Recommendations or opinions about what someone should do."; "She gave me good advice for my job interview.";""
 
-"afraid (adj)"; "/əˈfreɪd/"; "Feeling fear or worry about something."; "I'm afraid of spiders."; ""
+"afraid (adj.)"; "/əˈfreɪd/"; "Feeling fear or anxiety."; "I'm afraid of heights.";""
 
-"after (prep)"; "/ˈæftər/"; "Subsequent to in time or order."; "We'll meet after the movie."; ""
+"after (prep.)"; "/ˈæftər/"; "Following in time or order."; "We'll have dinner after the movie.";""
 
-"afternoon (n)"; "/ˌæftəˈnuːn/"; "The time between noon and evening."; "Let's have tea in the afternoon."; ""
+"afternoon (n.)"; "/ˌæftərˈnuːn/"; "The time between noon and evening."; "Let's meet in the afternoon.";""
 
-"again (adv)"; "/əˈɡeɪn/"; "Once more; on another occasion."; "Can you say that again, please?"; ""
+"again (adv.)"; "/əˈɡen/"; "Once more; one more time."; "Can you say that again, please?";""
 
-"age (n)"; "/eɪdʒ/"; "The length of time that a person or thing has existed."; "She is five years old; that's her age."; ""
+"age (n.)"; "/eɪdʒ/"; "The number of years someone has lived."; "She looks young for her age.";""
 
-"ago (adv)"; "/əˈɡoʊ/"; "In the past; before now."; "I met her a week ago."; ""
+"ago (adv.)"; "/əˈɡoʊ/"; "In the past, before now."; "I visited Paris two years ago.";""
 
-"agree (v)"; "/əˈɡriː/"; "To have the same opinion or belief as someone else."; "We don't always agree on everything."; ""
+"agree (v.)"; "/əˈɡriː/"; "To have the same opinion or belief."; "We don't always agree on everything.";""
 
-"air (n)"; "/ɛər/"; "The invisible gaseous substance surrounding the earth."; "We need clean air to breathe."; ""
+"air (n.)"; "/ɛər/"; "The mixture of gases that we breathe."; "The air in the mountains is so fresh.";""
+
+"airport (n.)"; "/ˈɛərpɔːrt/"; "A place where airplanes take off and land, with facilities for passengers."; "We'll meet you at the airport.";""
+
+"all (det., pron.)"; "/ɔːl/"; "Every one of something."; "All students must attend the meeting.";""
+
+"also (adv.)"; "/ˈɔːlsoʊ/"; "In addition; too."; "I want ice cream, and I'll also have a cookie.";""
+
+"always (adv.)"; "/ˈɔːlweɪz/"; "At all times; on every occasion."; "She always arrives early.";""
+
+"amazing (adj.)"; "/əˈmeɪzɪŋ/"; "Causing great surprise or wonder."; "The view from the top of the mountain is amazing.";""
+
+"and (conj.)"; "/ænd/"; "Used to connect words or groups of words."; "I like coffee and tea.";""
+
+"angry (adj.)"; "/ˈæŋɡri/"; "Feeling strong displeasure or hostility."; "He was angry because his team lost the game.";""
+
+"animal (n.)"; "/ˈænɪməl/"; "A living organism that can move and feed."; "The zoo has a variety of exotic animals.";""
+
+"another (det./pron.)"; "/əˈnʌðər/"; "Used to refer to an additional person or thing."; "Can I have another piece of cake?";""
+
+"answer (n., v.)"; "/ˈænsər/"; "A response to a question or statement; to respond to a question."; "She gave a thoughtful answer.";""
+
+"any (det., pron.)"; "/ˈɛni/"; "Used to refer to one or some of a thing or things, no matter how much."; "Do you have any questions?";""
+
+"anyone (pron.)"; "/ˈɛniwʌn/"; "Any person; used to refer to an unspecified person."; "Anyone can join the club.";""
+
+"anything (pron.)"; "/ˈɛnɪˌθɪŋ/"; "Any thing; used to refer to a thing, no matter what."; "I can eat anything for lunch.";""
+
+"apartment (n.)"; "/əˈpɑːrtmənt/"; "A set of rooms for living in, usually on one floor of a building."; "She lives in a small apartment in the city.";""
+
+"apple (n.)"; "/ˈæpl/"; "A round fruit with red or green skin and a whitish interior."; "I like to eat apples for a snack.";""
+
+"area (n.)"; "/ˈɛriə/"; "A region or part of a town, country, or the world."; "This park is a popular area for picnics.";""
+
+"arm (n.)"; "/ɑːrm/"; "Each of the two upper limbs of the human body."; "She wore a bracelet on her left arm.";""
+
+"around (prep., adv.)"; "/əˈraʊnd/"; "In a circular direction or vicinity."; "Let's sit around the campfire.";""
+
+"arrive (v.)"; "/əˈraɪv/"; "To reach a destination or come to a place."; "We'll arrive at the airport in the morning.";""
+
+"art (n.)"; "/ɑːrt/"; "The expression or application of human creative skill and imagination."; "I enjoy creating art in my free time.";""
