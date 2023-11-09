@@ -1,0 +1,39 @@
+"a (indefinite article)"; "/ə/"; "Used before a singular noun to refer to any member of a group."; "I want to buy a new car;";""
+
+"about (prep., adv)"; "/əˈbaʊt/"; "Concerning or regarding something."; "We talked about our plans for the weekend;";""
+
+"above (prep., adv)"; "/əˈbʌv/"; "At a higher position or level than something else."; "The bird is flying above the trees;";""
+
+"across (prep., adv)"; "/əˈkrɒs/"; "From one side to the other side; over a certain area."; "We walked across the bridge;";""
+
+"action (n)"; "/ˈækʃən/"; "Doing something or the process of doing something."; "The movie has a lot of exciting action scenes;";""
+
+"activity (n)"; "/ækˈtɪvəti/"; "A thing that you do for enjoyment or interest."; "We enjoyed the outdoor activities;";""
+
+"actor (n)"; "/ˈæktər/"; "A person who performs in plays, movies, or television shows."; "The actor delivered a powerful performance;";""
+
+"actress (n)"; "/ˈæktrɪs/"; "A female actor, especially in a theater play, movie, or television show."; "She is a talented actress;";""
+
+"add (v)"; "/æd/"; "To put something with or onto something else to increase the size, number, or amount."; "Add sugar to the coffee;";""
+
+"address (n)"; "/əˈdres/"; "The details of the place where someone lives or works."; "Write your address on the envelope;";""
+
+"adult (n)"; "/ˈædʌlt/"; "A person who is fully grown or developed."; "In many countries, you are considered an adult at 18;";""
+
+"advice (n)"; "/ədˈvaɪs/"; "An opinion or suggestion about what someone should do."; "I need some advice on choosing a career;";""
+
+"afraid (adj)"; "/əˈfreɪd/"; "Feeling fear or worry about something."; "I'm afraid of spiders;";""
+
+"after (prep)"; "/ˈæftər/"; "Subsequent to in time or order."; "We'll meet after the movie;";""
+
+"afternoon (n)"; "/ˌæftəˈnuːn/"; "The time between noon and evening."; "Let's have tea in the afternoon;";""
+
+"again (adv)"; "/əˈɡeɪn/"; "Once more; on another occasion."; "Can you say that again, please;";""
+
+"age (n)"; "/eɪdʒ/"; "The length of time that a person or thing has existed."; "She is five years old; that's her age;";""
+
+"ago (adv)"; "/əˈɡoʊ/"; "In the past; before now."; "I met her a week ago;";""
+
+"agree (v)"; "/əˈɡriː/"; "To have the same opinion or belief as someone else."; "We don't always agree on everything;";""
+
+"air (n)"; "/ɛər/"; "The invisible gaseous substance surrounding the earth."; "We need clean air to breathe;";""
